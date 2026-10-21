@@ -4,3 +4,14 @@
 *~
 .idea/
 .vscode/
+
+# Apache RAT jar downloaded by dev/check-license
+/lib/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node
+node_modules/
